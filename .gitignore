@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+
+# Model / artifacts if you don't want to upload heavy files
+# Uncomment if needed
+# ml_service/artifacts/*.pkl
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Environment files
+.env
+server/.env
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build folders
+dist/
+build/
