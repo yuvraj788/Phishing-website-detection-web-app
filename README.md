@@ -1,4 +1,4 @@
-# Phishing Website Detection Web App
+# Phishing Detection Web App
 
 ## Problem Statement
 
